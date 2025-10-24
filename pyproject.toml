@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "lib-label-detect-cell"
+version = "0.1.0"
+description = "Detecção de uso de celular com YOLOv8 e CUDA"
+authors = ["jhonatan"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+kagglehub = "^0.3.13"
+ultralytics = "^8.3.220"
+pandas = "^2.2.0"
+scikit-learn = "^1.5.0"
+opencv-python = "^4.10.0"
+matplotlib = "^3.9.0"
+seaborn = "^0.13.0"
+numpy = "^1.26.0"
+pillow = "^10.4.0"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^7.0.1"
+jupyter = "^1.0.0"
+notebook = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
