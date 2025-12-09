@@ -2,8 +2,7 @@
 
 ## Visão Geral
 
-Sistema automatizado de monitoramento baseado em visão computacional para detectar o uso de dispositivos móveis por funcionários em ambientes industriais. Utiliza Deep Learning com arquitetura YOLOv8 para realizar detecções em tempo real através de câmeras de vigilância conectadas ao NVR da empresa.
-
+Sistema automatizado de monitoramento baseado em visão computacional para detectar o uso de dispositivos móveis por funcionários em ambientes industriais. Utiliza Deep Learning com arquitetura YOLOv8 para realizar detecções em tempo real através de câmeras de vigilância 
 ## Objetivo
 
 Fornecer uma ferramenta de monitoramento não invasiva que identifique automaticamente quando colaboradores estão utilizando celulares durante o expediente, registrando evidências fotográficas e métricas de tempo de uso para fins de compliance e segurança operacional.
